@@ -20,17 +20,16 @@ A lightweight backend project built with **Express.js** and **Node.js** to pract
 
 ---
 
-## 📂 Project Structure  
-📂 task-manager-api
-│
-├── 📄 server.js
-├── 📄 package.json
-│
-├── 📂 routes
-│   └── 📄 tasks.js
-│
-└── 📂 node_modules
----
+## 📁 Project Structure
+
+```text
+task-manager-api/
+├── server.js
+├── package.json
+├── routes/
+│   └── tasks.js
+└── node_modules/
+```
 
 ## ⚙️ How to Run  
 1. Download or clone the repository  
